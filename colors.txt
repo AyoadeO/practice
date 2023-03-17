@@ -7,3 +7,9 @@ all colors
 5. purple
 6. orange
 7. grey
+8. indigo
+9. violet
+10.indigo
+12.cream
+13.peach
+14.maeuve
