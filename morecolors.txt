@@ -1,0 +1,17 @@
+all colors
+
+1. yellow
+2. black
+3. green
+4. blue
+5. purple
+6. orange
+7. grey
+8. indigo
+9. violet
+10.indigo
+12.cream
+13.peach
+14.maeuve
+15.white
+16.brown
